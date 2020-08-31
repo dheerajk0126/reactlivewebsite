@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.3b7c1546.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.18492d42.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.18492d42.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.2a28c33f.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.2a28c33f.js.map",
+    "static/css/2.11829350.chunk.css": "/reactlivewebsite/static/css/2.11829350.chunk.css",
+    "static/js/2.f3e4c30d.chunk.js": "/reactlivewebsite/static/js/2.f3e4c30d.chunk.js",
+    "static/js/2.f3e4c30d.chunk.js.map": "/reactlivewebsite/static/js/2.f3e4c30d.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "precache-manifest.abe35ab10b513490ea1613f59050a988.js": "/reactlivewebsite/precache-manifest.abe35ab10b513490ea1613f59050a988.js",
+    "service-worker.js": "/reactlivewebsite/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/reactlivewebsite/static/css/2.11829350.chunk.css.map",
+    "static/css/main.3b7c1546.chunk.css.map": "/reactlivewebsite/static/css/main.3b7c1546.chunk.css.map",
+    "static/js/2.f3e4c30d.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.f3e4c30d.chunk.js.LICENSE.txt",
+    "static/media/Robots-Square.jpg": "/reactlivewebsite/static/media/Robots-Square.ed3e6932.jpg",
+    "static/media/digital.jpg": "/reactlivewebsite/static/media/digital.ace8597e.jpg",
+    "static/media/marketing.jpg": "/reactlivewebsite/static/media/marketing.f0450945.jpg",
+    "static/media/software.jpeg": "/reactlivewebsite/static/media/software.3d2ea553.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a28c33f.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.f3e4c30d.chunk.js",
+    "static/css/main.3b7c1546.chunk.css",
+    "static/js/main.18492d42.chunk.js"
+  ]
+}
